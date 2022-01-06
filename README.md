@@ -1,2 +1,2 @@
-# Udemy-CSS-HTML-Final-Project
+# Omnifood-CSS-HTML-Final-Project
 Omnifood
